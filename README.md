@@ -1,5 +1,7 @@
 ## 🍃 Welcome to my Profile! 🍃
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
+
 ## 🤔 Personal Project
 
 ## 📚 Personal Reading
