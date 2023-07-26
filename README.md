@@ -3,8 +3,15 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
 ## 🤔 Personal Project
+###  1️⃣ Slime Shooter
+By using the LWJGL library, I am developing my own 2D engine to create mechanically-simple gameplay with features to extend my range of knowledge - which can be traced with the roadmap below.
+### 🛣️ Roadmap | Progress Stage · Learning
+- [ ] 2D Engine and Gameplay (LWJGL, Core Java)
+- [ ] Multiplayer (Networking with Spring, Concurrency)
+- [ ] Leaderboard and Player Data (PostgreSQL, DSA)
 
 ## 📚 Personal Reading
+- [ ] Core Java for the Impatient (2022)
 
 ## 🔭 Academic Projects
 
