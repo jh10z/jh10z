@@ -5,7 +5,7 @@
 ## 🤔 Personal Project
 ### 🔫 Slime Shooter 🔫
 By using the LWJGL library, I am developing my own 2D engine to create mechanically-simple gameplay with features to extend my range of knowledge - which can be traced with the roadmap below.
-### 🛣️ Roadmap | Progress Stage · Learning
+### 🛣️ Roadmap | Progress Stage: Learning
 - [ ] 2D Engine and Gameplay (LWJGL, Core Java)
 - [ ] Multiplayer (Networking with Spring, Concurrency)
 - [ ] Leaderboard and Player Data (PostgreSQL, DSA)
