@@ -13,8 +13,16 @@ By using the LWJGL library, I am developing my own 2D engine to create mechanica
 ## 📚 Personal Reading
 - [ ] Core Java for the Impatient (2022)
 
-## 🔭 Academic Projects
+## 🔭 Individual Academic Projects
+### Year 3 Concurrent Programming · Assignment 3
 
+### Year 3 Cloud Computing · Coursework
+
+### Year 3 Computer Science Project · Full Stack Web Application
+
+### Year 1 Object Oriented Programming · Java Eclipse Project
+
+### A2 Level Coursework · WinForms .NET (C#) Application 
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
