@@ -1,6 +1,6 @@
 ##🍃 Welcome to my Profile! 🍃
 
-Hi, my name is Jason! I am 22 years old 🫡 and I enjoy programming in Java, whether it be working with the language, in projects or doing alogorithms. Other than programming, I enjoy watching anime and keeping up with current computer & peripheral trends.
+Hi, my name is Jason! I am 22 years old 🫡 and I enjoy programming in Java, whether it be working with the language, in projects or doing algorithms. Other than programming, I enjoy watching anime and keeping up with current computer & peripheral trends.
 
 #### Feel free to follow!
 Spotify 🔊 https://open.spotify.com/user/p73dawwtokhpngwuuh09qcu81?si=90a8761af818468f
