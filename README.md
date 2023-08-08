@@ -23,7 +23,7 @@ By using the LWJGL library, I am developing my own 2D engine to create mechanica
 - [ ] Core Java for the Impatient (2022)
 
 ## 🔭 Individual Academic Projects
-In order of strongest, I believe my best projects to worst are: Yr3 Concurrent, Yr1 OOP, Yr3 Cloud Computing, A2 Coursework, Yr3 CS Project
+You can view my academic projects in the pinned repositories section below. I've ordered them from strongest to weakest by my own regard.
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
