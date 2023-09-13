@@ -5,7 +5,7 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
 ## 🗺️ Personal Projects
-### 1️⃣ Full Stack Web App [Private Repo]
+### Full Stack Web App
 To further the learning on from my final year project, I'm creating another web app with the following tech stack:
 
 | Frontend  | Backend |
