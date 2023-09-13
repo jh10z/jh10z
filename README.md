@@ -9,13 +9,22 @@ Discord 🧑‍💻 jacyn1cal
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
-## 🤔 Personal Project
-### 🔫 Slime Shooter 🔫
-By using the LWJGL library, I am developing my own 2D engine to create mechanically-simple gameplay with features to extend my range of knowledge - which can be traced with the roadmap below.
-### 🛣️ Roadmap | Progress Stage: Learning
-- [ ] 2D Engine and Gameplay (LWJGL, GLFW, OpenGL, Core Java)
-- [ ] Multiplayer (Networking with Spring, Concurrency)
-- [ ] Leaderboard and Player Data (PostgreSQL, DSA)
+## 🗺️ Personal Projects
+### 1️⃣ Full Stack Web App [Private Repo]
+To further the learning on from my final year project, I'm creating another web app with the following tech stack:
+
+| Frontend  | Backend |
+| ------------- | ------------- |
+| TypeScript, React, NextJS, TailwindCSS  | Java, Spring Boot (Web, Security, JPA), MongoDB |
+
+#### 🔥 Motivation
+I have some deep regrets with the outcome of my final year project. The now-obvious pitfalls into technical debt is why I want to start afresh with a new project. In my first web app, I failed to ensure input sanitation, a complete backend, frontend responsivity, and I can go on further but the learning outcomes will include objectives from my last project ontop of new ones I hope to improve and add to my experience. 
+
+#### 🛣️ Learning Outcomes
+- [ ] TBD
+
+### 2️⃣ CI/CD on VPS [Not Started]
+[TBD]
 
 ## 📚 Personal Reading
 - [ ] Core Java for the Impatient (2022)
