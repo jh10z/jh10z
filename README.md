@@ -23,11 +23,12 @@ I have some deep regrets with the outcome of my final year project. The now-obvi
 #### 🛣️ Learning Outcomes
 - [ ] TBD
 
-### 2️⃣ CI/CD on VPS [Not Started]
-[TBD]
-
 ## 📚 Personal Reading
 - [ ] Core Java for the Impatient (2022)
+
+### ✨ Wishlist
+- [ ] Cracking the Coding Interview
+- [ ] Spring Security in Action
 
 ## 🔭 Individual Academic Projects
 You can view my academic projects in the pinned repositories section below. I've ordered them from strongest to weakest by my own regard.
