@@ -1,11 +1,6 @@
 ## 🍃 Welcome to my Profile! 🍃
 
-#### Feel free to follow!
-Spotify 🔊 https://open.spotify.com/user/p73dawwtokhpngwuuh09qcu81?si=90a8761af818468f
-
-MyAnimeList 📺 https://myanimelist.net/profile/battleprogrammer
-
-Discord 🧑‍💻 jacyn1cal
+🎵 [Spotify](https://open.spotify.com/user/p73dawwtokhpngwuuh09qcu81) 🎵 📺 [MyAnimeList](https://myanimelist.net/profile/battleprogrammer) 📺 🦜 jacyn1cal 🦜
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
