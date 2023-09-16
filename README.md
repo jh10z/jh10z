@@ -1,6 +1,6 @@
 ## 🍃 Welcome to my Profile! 🍃
 
-🎵 [Spotify](https://open.spotify.com/user/p73dawwtokhpngwuuh09qcu81) 🎵 📺 [MyAnimeList](https://myanimelist.net/profile/battleprogrammer) 📺 🦜 jacyn1cal 🦜 🧭 [Leetcode](https://leetcode.com/atmydesk/) 🧭
+🎵 [Spotify](https://open.spotify.com/user/p73dawwtokhpngwuuh09qcu81) 🎵 📺 [MyAnimeList](https://myanimelist.net/profile/battleprogrammer) 📺 🦜 jacyn1cal 🦜
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
