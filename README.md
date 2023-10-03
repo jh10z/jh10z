@@ -12,9 +12,6 @@ To further the learning on from my final year project, I'm creating another web 
 | ------------- | ------------- |
 | TypeScript, React, NextJS, TailwindCSS  | Java, Spring Boot (Web, Security, JPA), MongoDB |
 
-#### 🔥 Motivation
-I have some deep regrets with the outcome of my final year project. The now-obvious pitfalls into technical debt is why I want to start afresh with a new project. In my first web app, I failed to ensure input sanitation, a complete backend, frontend responsivity, and I can go on further but the learning outcomes will include objectives from my last project ontop of new ones I hope to improve and add to my experience. 
-
 #### 🛣️ Learning Outcomes
 - [ ] TBD
 
