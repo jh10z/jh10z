@@ -5,7 +5,7 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
 ## 🗺️ Personal Projects
-### Full Stack Web App
+### 1) Full Stack Web App
 
 | Frontend  | Backend |
 | ------------- | ------------- |
