@@ -6,19 +6,18 @@
 
 ## 🗺️ Personal Projects
 ### Full Stack Web App
-To further the learning on from my final year project, I'm creating another web app with the following tech stack:
 
 | Frontend  | Backend |
 | ------------- | ------------- |
 | TypeScript, React, NextJS, TailwindCSS  | Java, Spring Boot (Web, Security, JPA), MongoDB |
 
-#### 🛣️ Learning Outcomes
+#### 🛣️ Features
 - [ ] TBD
 
-## 📚 Personal Reading
+## 📚 Books I own
 - [ ] Core Java for the Impatient (2022)
 
-### ✨ Wishlist
+### ✨ Books I want to buy
 - [ ] Cracking the Coding Interview
 - [ ] Spring Security in Action
 
