@@ -5,21 +5,12 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
 ## 🗺️ Personal Projects
-### 1) Full Stack Web App
+### 1) 
 
-| Frontend  | Backend |
-| ------------- | ------------- |
-| TypeScript, React, NextJS, TailwindCSS  | Java, Spring Boot (Web, Security, JPA), MongoDB |
+### 2) 
 
-#### 🛣️ Features
-- [ ] TBD
-
-## 📚 Books I own
+## 📚 Books
 - [ ] Core Java for the Impatient (2022)
-
-### ✨ Books I want to buy
-- [ ] Cracking the Coding Interview
-- [ ] Spring Security in Action
 
 ## 🔭 Individual Academic Projects
 You can view my academic projects in the pinned repositories section below. I've ordered them from strongest to weakest by my own regard.
