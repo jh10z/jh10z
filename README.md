@@ -3,11 +3,11 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jh10z&show_icons=true&theme=radical)
 
 ## 🗺️ Active Projects
-### Isometric Building Block Gane
+### Isometric Building Block Game
 October 2024 - Current
 Language: Go
 Framework: Ebiten
-Background: First game project to ease me in a bigger game project when im done 
+Background: First game project to ease me in a bigger game project when im done, inspired by Tetris
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
