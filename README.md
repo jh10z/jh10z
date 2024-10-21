@@ -1,4 +1,4 @@
-## 🍃 Welcome to my Profile! 🍃
+## 🍃 Welcome to my profile! 🍃
 📚 BEng in Computer Science <br>
 💼 Full-Time Software Engineer <br>
 🖥️ Computer 24/7
