@@ -1,7 +1,7 @@
 ## 🍃 Welcome to my profile! 🍃
-📚 BEng in Computer Science <br>
 💼 Full-Time Software Engineer <br>
-🖥️ Computer 24/7
+📚 BEng in Computer Science <br>
+🖥️ On the Computer 24/7
 
 ### Personal Gaming Setup
 **PC Specifications** <br>
