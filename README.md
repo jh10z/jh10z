@@ -41,7 +41,7 @@ The design of this game was deliberately chosen to kickstart my learning in area
 | **Skills**     | Pixel Art, Game Design |
 | **Tools**      | Git, VSCode, Aesprite, Tiled |
 
-### RTC Chat Application (to be started)
+### RTC Text Application (to be started)
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
