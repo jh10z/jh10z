@@ -15,7 +15,7 @@
 **PSU** Corsair SF750 80+ Platinum <br>
 
 **PC Peripherals** <br>
-**Mouse** Endggame OP1 8K (Purple Frost Edition) <br>
+**Mouse** Endgame OP1 8K (Purple Frost Edition) <br>
 **Mousepad** Wallhack SY-001 (Control, Black) <br>
 **Keyboard** Wooting 60HE (Tofu Black, Black Knight Lubed Switches, CYL Black Snail Keycaps) <br>
 **Monitor** LG 27GR95QE-B (27", 240hz, OLED) <br>
