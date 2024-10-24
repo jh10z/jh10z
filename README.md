@@ -1,7 +1,6 @@
 ## 🍃 Welcome 🍃
 💼 Full-Time Software Engineer <br>
 🏫 BEng in Computer Science <br>
-🖥️ On the Computer 24/7
 
 ### Personal Gaming Setup
 **PC Specifications** <br>
