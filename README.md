@@ -1,4 +1,4 @@
-## 🍃 Welcome to my profile! 🍃
+## 🍃 Welcome 🍃
 💼 Full-Time Software Engineer <br>
 🏫 BEng in Computer Science <br>
 🖥️ On the Computer 24/7
@@ -24,7 +24,10 @@
 **Microphone** Shure MV7 USB (Black) <br>
 
 ## 🗺️ Projects
-### Isometric Building Block Game (started in October 2024)
+### Isometric Building Block Game
+
+#### Background
+
 Inspired by the classic game Tetris, I have created my own rendition for personal enjoyment, educational purposes and as a challenge. This project is my very first dive into game programming. As I evolve in this skill, I will update the game periodically to reflect my progress.
 
 #### Design
