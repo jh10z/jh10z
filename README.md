@@ -2,7 +2,7 @@
 💼 Full-Time Software Engineer | 🏫 BEng in Computer Science | 🐿️ Learning Go
 
 ## 🗺️ Projects
-### Isometric Block Stacking Game 
+### Block Stacking Game 
 ### Discord Bot
 ### Game Server K8s Operator
 
