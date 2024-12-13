@@ -4,7 +4,7 @@
 ## 🗺️ Projects
 ### Isometric Block Stacking Game 
 ### Discord Bot
-### Game Server Operator
+### Game Server K8s Operator
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
