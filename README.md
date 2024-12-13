@@ -1,5 +1,5 @@
 ## 🍃 Welcome 🍃
-💼 Full-Time Software Engineer | 🏫 BEng in Computer Science | 🐿️ Learning Go
+💼 Full-Time Software Engineer | 🏫 BEng in Computer Science | 🐿️ Go
 
 ## 🗺️ Projects
 ### Block Stacking Game 
