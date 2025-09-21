@@ -1,10 +1,6 @@
 ## 🍃 Welcome 🍃
-💼 Full-Time Software Engineer | 🏫 BEng in Computer Science | 🐿️ Go
 
-## 🗺️ Projects
-### Block Stacking Game 
-### Discord Bot
-### Game Server K8s Operator
+## 🗺️ Project
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
