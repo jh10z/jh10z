@@ -1,6 +1,5 @@
-## 🍃 Welcome 🍃
-
-## 🗺️ Project
+# Jason H.
+## 🗺️ Portfolio Project
 
 <!--
 **jh10z/jh10z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
